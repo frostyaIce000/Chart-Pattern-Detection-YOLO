@@ -59,5 +59,5 @@ In swing trading, timing is critical. The YOLO system in DToD V2.1 enhances trad
 The YOLO-based pattern detection system in DToD V2.1 is a powerful tool for swing traders, particularly beginners, as it automates the complex task of chart pattern recognition. By leveraging two specialized YOLO models—one for large-scale chart patterns and another for candlestick formations—the system provides accurate, real-time insights into market trends. This allows traders to make informed decisions with greater confidence, ultimately enhancing their ability to capitalize on short- to medium-term price movements.
 
 For further inquiries or support, contact:  
-**Email**: benreydiohenfilio.john916@gmail.com  
-**Telegram**: @johnbdfilio000
+**Email**: frosty.alce000@gmail.com  
+**Telegram**: @frostyalce000
